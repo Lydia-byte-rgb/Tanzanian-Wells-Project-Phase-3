@@ -82,11 +82,15 @@ This study successfully developed and evaluated multiple machine learning models
 
     Jupyter notebook link
 For further reference, the jupyter notebook can be accessed here:
- (https://github.com/Lydia-byte-rgb/Tanzanian-Wells-Project-Phase-3.ipynb)
+(https://github.com/Lydia-byte-rgb/Tanzanian-Wells-Project-Phase-3/blob/master/Phase_3_Project_.ipynb)
 
 # Contact information
 For any clarification reach out to me on: lydiamangoa10@gmail.com
 
 # Repository structure
-README.md
 phase_3_project.ipynb
+README.md
+Submission_format.csv
+Test_values.csv
+Training_set_labels.csv
+Training_set_values.csv
