@@ -89,6 +89,7 @@ For any clarification reach out to me on: lydiamangoa10@gmail.com
 
 # Repository structure
 phase_3_project.ipynb
+Lydia phase 3 presentatioin.pdf
 README.md
 Submission_format.csv
 Test_values.csv
